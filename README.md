@@ -1,4 +1,45 @@
-# fuma-repro-mdx-sections
+# `fuma-repro-mdx-sections`
+
+Reproduction for (insert link to issue here)
+
+## How this repo was created
+
+1. Create a Fumadox project with the following settings:
+
+```sh
+~/code/fuma-repro-mdx-sections 
+❯ pnpm create fumadocs-app .
+.../19962af411f-3268                     |   +7 +
+.../19962af411f-3268                     | Progress: resolved 7, reused 2, downloaded 5, added 7, done
+┌  Create Fumadocs App
+│
+◇  Choose a template
+│  Next.js: Fumadocs MDX
+│
+◇  Use `/src` directory?
+│  No
+│
+◇  Configure linter?
+│  Disabled
+│
+◇  Do you want to install packages automatically? (detected as pnpm)
+│  Yes
+│
+◇  Project Generated
+│
+└  Done
+
+
+Open the project
+cd .
+
+Run Development Server
+npm run dev | pnpm run dev | yarn dev
+
+You can now open the project and start writing documents
+```
+
+---
 
 This is a Next.js application generated with
 [Create Fumadocs](https://github.com/fuma-nama/fumadocs).
