@@ -1,6 +1,6 @@
 # `fuma-repro-mdx-sections`
 
-Reproduction for (insert link to issue here)
+Reproduction for https://github.com/fuma-nama/fumadocs/issues/2386
 
 ## How this repo was created
 
